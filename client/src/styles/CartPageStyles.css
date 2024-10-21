@@ -1,0 +1,40 @@
+.cart-page {
+    padding: 20px;
+    background-color: #f9f9f9;
+    min-height: 100vh;
+    font-family: 'Prompt', sans-serif; /* ฟอนต์ภาษาไทยที่สวยงาม */
+}
+
+.page-title {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.summary-section {
+    text-align: right;
+    margin-top: 20px;
+}
+
+.bill-summary {
+    margin-top: 20px;
+}
+
+.bill-summary h5 {
+    font-size: 1.1rem;
+    margin-bottom: 10px;
+}
+
+.bill-summary h3 {
+    font-size: 1.5rem;
+    margin-top: 20px;
+}
+
+button.ant-btn-primary {
+    background-color: #1890ff;
+    border-color: #1890ff;
+    font-size: 1rem;
+    padding: 5px 20px;
+    border-radius: 5px;
+    font-family: 'Prompt', sans-serif;
+}

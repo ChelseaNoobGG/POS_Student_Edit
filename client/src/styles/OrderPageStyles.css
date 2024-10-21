@@ -1,0 +1,92 @@
+/* สำหรับสไตล์พื้นหลังของหน้า */
+.order-page-container {
+    background: #f0f2f5;
+    min-height: 100vh;
+  }
+  
+  /* สำหรับสไตล์ส่วนหัว */
+  .order-page-header {
+    padding: 10px 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+  
+  /* สำหรับสไตล์ชื่อหน้า */
+  .order-page-title {
+    text-align: center;
+    color: #444;
+    margin-bottom: 10px;
+  }
+  
+  /* สไตล์ปุ่มตะกร้าสินค้า */
+  .cart-button-container {
+    display: flex;
+    justify-content: flex-end;
+    padding: 0 20px;
+    margin-bottom: 20px;
+  }
+  
+  .cart-button {
+    background-color: #1890ff;
+    border-color: #1890ff;
+    padding: 8px 15px;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+  
+  /* สไตล์ของ Card ประเภท */
+  .category-card {
+    border-radius: 5px;
+    text-align: center;
+    padding: 5px;
+  }
+  
+  .category-card:hover {
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);
+  }
+  
+  .selected-category {
+    background-color: #1890ff;
+  }
+  
+  .unselected-category {
+    background-color: #fff;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* สไตล์ของไอคอนใน Card ประเภท */
+  .category-icon {
+    font-size: 35px;
+    margin-bottom: 5px;
+  }
+  
+  .category-icon-selected {
+    color: #fff;
+  }
+  
+  .category-icon-unselected {
+    color: #1890ff;
+  }
+  
+  /* สไตล์ชื่อประเภท */
+  .category-name {
+    font-size: 10px;
+    font-weight: bold;
+  }
+  
+  .category-name-selected {
+    color: #fff;
+  }
+  
+  .category-name-unselected {
+    color: #333;
+  }
+  
+  /* สไตล์สำหรับรายการสินค้าที่ไม่มี */
+  .no-items {
+    text-align: center;
+    padding: 20px;
+    color: #999;
+  }
+  

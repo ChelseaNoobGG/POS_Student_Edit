@@ -1,0 +1,103 @@
+#invoice-POS {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin: 0 auto;
+  width: 80mm;
+  background: #fefefe;
+  border-radius: 5px;
+}
+
+h1, h2, h3 {
+  font-family: "Arial", sans-serif;
+  color: #333;
+  margin-bottom: 8px;
+}
+
+p {
+  font-size: 0.9em;
+  color: #555;
+}
+
+#top {
+  text-align: center;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 15px;
+}
+
+#top .logo {
+  height: 60px;
+  width: 60px;
+  background: url(https://yt3.ggpht.com/ytc/AKedOLRB0XGxEABopk8qJ2-CcnA0UoVyC7TarDi5PJwGIQ=s176-c-k-c0x00ffffff-no-rj-mo) no-repeat;
+  background-size: 60px 60px;
+  margin: 0 auto 10px;
+  border-radius: 50%;
+}
+
+#mid {
+  padding: 15px 0;
+  text-align: center;
+  border-bottom: 1px solid #ddd;
+}
+
+#bot {
+  margin-top: 20px;
+}
+
+#table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 10px;
+}
+
+.tabletitle {
+  background-color: #f9f9f9;
+  font-weight: bold;
+  text-align: left;
+  padding: 8px;
+  border-bottom: 1px solid #ddd;
+}
+
+.service {
+  text-align: left;
+}
+
+.itemtext {
+  font-size: 0.85em;
+  padding: 8px;
+}
+
+.payment {
+  text-align: right;
+  padding: 8px;
+}
+
+.invoice-footer {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 0.85em;
+  color: #777;
+}
+
+#legalcopy {
+  margin-top: 20px;
+}
+
+.button-print {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.button-print button {
+  padding: 10px 20px;
+  font-size: 1em;
+  background-color: #007bff;
+  border: none;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.button-print button:hover {
+  background-color: #0056b3;
+}

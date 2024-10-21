@@ -1,0 +1,6 @@
+http://localhost:8080/uploads/myimage.jpg
+http://
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqcjmDuoDnV-8OF_upRW5yat-0nrYvnWx4GA&s
+https://img.wongnai.com/p/1920x0/2017/06/26/16b349df2d5b471bbca679e6117f1544.jpg
+https://img.wongnai.com/p/1920x0/2017/06/26/16b349df2d5b471bbca679e6117f1544.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6nG8-Vg_KYhkWDFjfjKTNBoLCQHfHQwMxrQ&s
